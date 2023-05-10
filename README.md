@@ -8,3 +8,4 @@
 * Modelling 
 	* with Logistic Regression - Modelling_coba.ipynb
 	* with K Nearest Neighbor - Modelling_KNN_coba.ipynb
+* Input Normalisation - Input_Normalisation.ipyb
