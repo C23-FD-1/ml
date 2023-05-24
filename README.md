@@ -4,12 +4,17 @@
 #### Bangkit Academy Final Capstone Project
 
 * Data Cleaning - Cleaning_coba.ipynb
+
 * Feature Engineering - Feature_coba.ipynb
+
 * Modelling 
 	* with Logistic Regression - Modelling_coba.ipynb
 	* with K Nearest Neighbor - Modelling_KNN_coba.ipynb
 	* with Sequential - Modelling_LogReg_Keras.ipynb
+	* with Gradient Boosted Tree - Modelling_GBT.ipynb (run using collab)
+	
 * Input Normalisation - Input_Normalisation.ipynb
+
 * Testing Model Prediction - Test_Prediction.ipynb
 
 =========================================================
