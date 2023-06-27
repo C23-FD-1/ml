@@ -27,3 +27,16 @@
 * Deployed Models: deployed_models
 	* log_reg w source - Logistic Regression with 'source' column
 	* log_reg wo source - Logistic Regression without 'source column
+	
+=========================================================
+
+* Dependencies: recommended versions
+	* Python 3.6.13
+	* Anaconda 23.1.0
+	* Jupyter Notebook 6.4.10
+	* TensorFlow 2.2.0
+	* TensorFlowjs 3.18.0
+	* Keras 2.6.0
+	* TensorFlow Decision Forests 1.3.0
+	* Scikit-learn 0.24.2
+	* Pandas 1.1.0 
